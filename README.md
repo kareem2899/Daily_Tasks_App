@@ -1,12 +1,3 @@
-
-
-![Uploading Screenshot 2025-02-19 at 11.11.39 PM.png…]()
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
